@@ -1,2 +1,3 @@
 # hello-world
-Just for learning 
+
+whats up my name is abdullah Ali from iraq 
